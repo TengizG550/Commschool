@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+Console.WriteLine("Tengiz Gachechialdze");
+Console.BackgroundColor = ConsoleColor.Blue;
+Console.WriteLine(Console.ReadLine());
